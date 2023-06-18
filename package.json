@@ -1,0 +1,21 @@
+{
+	"name": "bloke-cli",
+	"version": "0.0.1",
+	"description": "CLI tool for Bloke",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pawelpiotrowski/bloke-cli.git"
+	},
+	"keywords": [
+		"cli",
+		"cms",
+		"nestjs",
+		"angular"
+	],
+	"author": "Pawel Piotrowski (https://github.com/pawelpiotrowski)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/pawelpiotrowski/bloke/issues"
+	},
+	"homepage": "https://github.com/pawelpiotrowski/bloke#readme"
+}
