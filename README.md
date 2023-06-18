@@ -1,1 +1,1 @@
-# bloke-cli
+# blokecms-cli

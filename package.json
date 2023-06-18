@@ -1,10 +1,10 @@
 {
-	"name": "bloke-cli",
+	"name": "blokecms-cli",
 	"version": "0.0.1",
-	"description": "CLI tool for Bloke",
+	"description": "CLI tool for Bloke CMS",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/pawelpiotrowski/bloke-cli.git"
+		"url": "git+https://github.com/pawelpiotrowski/blokecms-cli.git"
 	},
 	"keywords": [
 		"cli",
@@ -15,7 +15,7 @@
 	"author": "Pawel Piotrowski (https://github.com/pawelpiotrowski)",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/pawelpiotrowski/bloke/issues"
+		"url": "https://github.com/pawelpiotrowski/blokecms/issues"
 	},
-	"homepage": "https://github.com/pawelpiotrowski/bloke#readme"
+	"homepage": "https://github.com/pawelpiotrowski/blokecms#readme"
 }
