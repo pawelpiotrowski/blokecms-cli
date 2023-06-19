@@ -13,7 +13,7 @@ type Props = {
 export default function Test({options}: Props) {
 	return (
 		<Text>
-			See you space, <Text color="green">{options.name}</Text>
+			See you space <Text color="green">{options.name}</Text>
 		</Text>
 	);
 }
