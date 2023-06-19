@@ -1,6 +1,6 @@
 {
 	"name": "blokecms-cli",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "CLI tool for Bloke CMS",
 	"bin": "dist/cli.js",
 	"type": "module",
