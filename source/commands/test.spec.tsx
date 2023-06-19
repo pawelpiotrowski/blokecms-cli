@@ -7,5 +7,5 @@ import Test from './test.js';
 test('greet user', t => {
 	const {lastFrame} = render(<Test options={{name: 'Bebop'}} />);
 
-	t.is(lastFrame(), `See you space, ${chalk.green('Bebop')}`);
+	t.is(lastFrame(), `See you space ${chalk.green('Bebop')}`);
 });
