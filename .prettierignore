@@ -1,2 +1,5 @@
 dist
+coverage
+tmp
+blokecms
 .vscode

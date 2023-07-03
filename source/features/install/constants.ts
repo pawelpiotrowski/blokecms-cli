@@ -1,0 +1,16 @@
+export const workingDirectory = 'blokecms';
+export const workingDirectoryPath = `./${workingDirectory}`;
+export const blokeCmsPackageName = 'blokecms';
+export const blokeCmsPackageExt = '.tgz';
+export const blokeCmsPackageDirName = 'package';
+export const blokeCmsPackageDirPath = `${workingDirectory}/${blokeCmsPackageDirName}`;
+export const clientConfigFile = 'config.client.json';
+export const clientConfigFilePath = `${blokeCmsPackageDirPath}/${clientConfigFile}`;
+export const clientDirName = 'client';
+export const clientDirPath = `${blokeCmsPackageDirPath}/${clientDirName}`;
+export const scriptsDirName = 'scripts';
+export const scriptsDirPath = `${blokeCmsPackageDirPath}/${scriptsDirName}`;
+export const serverEnvFile = '.env';
+export const serverDirName = 'server';
+export const serverDirPath = `${blokeCmsPackageDirPath}/${serverDirName}`;
+export const serverEnvFilePath = `${serverDirPath}/${serverEnvFile}`;
