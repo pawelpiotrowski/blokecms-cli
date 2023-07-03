@@ -4,7 +4,8 @@ _Please include a summary of the changes_
 
 Dependencies added:
 
-_List new dependecies or N/A_
+_List new dependecies or_
+N/A
 
 Fixes/Closes/Resolves # (issue)
 
@@ -12,9 +13,10 @@ Fixes/Closes/Resolves # (issue)
 
 Please select options that are relevant.
 
+- [ ] Version bump
+- [ ] Chore update
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
-- [ ] Chore update
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation/README(s) update
 
@@ -23,7 +25,6 @@ Please select options that are relevant.
 Please describe the tests that you ran to verify your changes.
 
 - [ ] Unit tests pass
-- [ ] E2E tests pass
 - [ ] Built locally in prod mode
 
 # Checklist:
