@@ -7,7 +7,7 @@ Dependencies added:
 _List new dependecies or_
 N/A
 
-Fixes/Closes/Resolves # (issue)
+Issue link: _url_
 
 ## Type of change
 
