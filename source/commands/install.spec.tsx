@@ -1,11 +1,15 @@
 import React from 'react';
-import chalk from 'chalk';
 import test from 'ava';
 import {render} from 'ink-testing-library';
 import Install from './install.js';
 
-test('install cms', t => {
-	const {lastFrame} = render(<Install options={{aid: true}} />);
+test('install cms should start with init step', t => {
+	const {lastFrame} = render(<Install />);
 
-	t.is(lastFrame(), `Installing${chalk.green(' in interactive mode.')}`);
+	t.is(
+		lastFrame()?.includes(
+			'This will download and install Bloke CMS, do you want to continue? (Y/n)',
+		),
+		true,
+	);
 });
